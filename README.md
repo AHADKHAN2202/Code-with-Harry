@@ -12,3 +12,22 @@ what is nodejs?
  rules to write variables?
  what is syntax?
  
+lecture 3 : topics covered -
+difference between let var and const?
+
+
+lecture 4 : topics covered -
+what is datatype
+primitive and non primitive data type
+n - null
+n - number
+s - string
+s - symbol
+b - bigint
+b - boolean
+u - undefined
+
+non - objects
+
+lectures 5 : topics covered - 
+revised all
