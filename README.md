@@ -5,7 +5,7 @@ why is it needed?
 what is ecmascript?
 what is nodejs?
  
- lecture 2 : topics covered
+ lecture 2 : topics covered -
  what is variable?
  what is dynamic typed language and static typed language?
  types of variables?
