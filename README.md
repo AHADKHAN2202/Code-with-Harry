@@ -31,3 +31,10 @@ non - objects
 
 lectures 5 : topics covered - 
 revised all
+
+lecture 6 : revised javascript operators like arithmatic operators,assignment opearators and many more.
+
+lecture 7 : revised conditional expressions in javascript
+lecture 8 : practice set 2 done.
+lecture 9 : revised loops like while loops,do-while loops and for loops.
+lecture 10 : revised functions in js.
